@@ -1,0 +1,25 @@
+#quote-box {
+  display: flex;
+  flex-direction: column;
+  border: black solid 1px;
+  max-width: 500px;
+  height: 200px;
+  margin: auto;
+  padding: 20px;
+}
+.button-div {
+  display: flex;
+}
+#tweet-quote {
+  margin-right: 10px;
+}
+#new-quote {
+  margin-left: auto;
+}
+
+.twitter-logo {
+  width: 20px;
+}
+.tumbler-logo {
+  width: 20px;
+}
